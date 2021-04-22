@@ -1,4 +1,0 @@
-* xref:1st_Page.adoc[1]
-* xref:2nd_Page.adoc[2]
-* xref:3rd_Page.adoc[3]
-* xref:4th_Page.adoc[4]
